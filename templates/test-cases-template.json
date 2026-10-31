@@ -1,0 +1,17 @@
+{
+  "story_id": "<story-id>",
+  "alm_revision": "<approved ALM revision>",
+  "spec_revision": "<specification revision>",
+  "system_client": "<intended SAP system/client>",
+  "target_objects": "<intended ZIS objects and version/baseline>",
+  "cases": [
+    {
+      "id": "T-01",
+      "coverage": "<acceptance criterion or regression reason>",
+      "scenario": "<scenario>",
+      "preconditions": "<required setup>",
+      "steps": "<inputs and human execution steps>",
+      "expected": "<approved expected outcome>"
+    }
+  ]
+}
